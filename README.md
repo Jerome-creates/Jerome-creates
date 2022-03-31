@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jerome-creates.
+- 👀 I’m interested in sports and programming.
+- 🌱 I’m currently learning html , css , c++ , Java, javascript.
+- 💞️ I’m looking to collaborate on different things.
+- 📫 How to reach me just @me.
